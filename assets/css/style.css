@@ -1094,3 +1094,36 @@ section {
     padding-right: 20px 15px;
   }
 }
+.projects .project-item {
+  padding: 0 0 20px 20px;
+  margin-top: -2px;
+  border-left: 2px solid #1f5297;
+  position: relative;
+}
+
+.projects .project-item h4 {
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  color: #050d18;
+  margin-bottom: 10px;
+}
+
+.projects .project-item h5 {
+  font-size: 16px;
+  background: #e4edf9;
+  padding: 5px 15px;
+  display: inline-block;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.projects .project-item ul {
+  padding-left: 20px;
+}
+
+.projects .project-item ul li {
+  padding-bottom: 10px;
+}
